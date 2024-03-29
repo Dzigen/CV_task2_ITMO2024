@@ -1,0 +1,14 @@
+{
+  "lr": 1e-05,
+  "epochs": 40,
+  "batch": 64,
+  "device": "cuda",
+  "run_name": "11",
+  "weight_decay": 1e-05,
+  "lr_step": 20,
+  "arcface_s": 1,
+  "archface_m": 0.2,
+  "scheduler_gamma": 0.1,
+  "backbone": "vit",
+  "head_name": "lin"
+}

@@ -1,0 +1,12 @@
+{
+  "lr": 0.0001,
+  "epochs": 1,
+  "batch": 4,
+  "device": "cuda",
+  "run_name": "1",
+  "weight_decay": 0.0001,
+  "lr_step": 10,
+  "arcface_s": 10,
+  "archface_m": 0.5,
+  "scheduler_gamma": 0.1
+}
